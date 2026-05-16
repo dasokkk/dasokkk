@@ -18,7 +18,7 @@
 
 I’m Kerem, a graduate in Mathematics and Computer Science. I work in cybersecurity with a focus on Red Teaming and AI-driven automation systems.
 
-My interests include attack strategy development, social engineering, OPSEC, and research on quantum-resistant encryption.
+My interests include attack strategy development,OPSEC, and research on quantum-resistant encryption.
 
 Previously, I was a member of the FIRST Robotics Competition team Sultans of Turkey.
 
