@@ -18,14 +18,9 @@
 
 I’m Kerem, a graduate in Mathematics and Computer Science. I work in cybersecurity with a focus on Red Teaming and AI-driven automation systems.
 
-My interests include attack strategy development,OPSEC, and research on quantum-resistant encryption.
+My interests include attack strategy development and research on quantum-resistant encryption.
 
 Previously, I was a member of the FIRST Robotics Competition team Sultans of Turkey.
-
-- Cybersecurity enthusiast 
-- Interested in offensive security & aviation
-- Quantum Resistant Cryptography Researcher
-- AI Security
 
 - TryHackme: https://tryhackme.com/p/dasok
 - HacktheBox https://app.hackthebox.com/users/3128227
