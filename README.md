@@ -2,7 +2,7 @@
 <h1 align="center">Kerem Kaan Daşmaz</h1>
 
 <p align="center">
-  <strong> Offensive Security | Red Team Operator | Local AI Automation Enthusiast | Prompt Engineering | Mathematics & Computer Science </strong>
+  <strong> Offensive Security | Mathematics & Computer Science </strong>
 </p>
 
 <p align="center">
