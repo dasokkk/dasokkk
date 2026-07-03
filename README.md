@@ -2,7 +2,7 @@
 <h1 align="center">Kerem Kaan Daşmaz</h1>
 
 <p align="center">
-  <strong> Offensive Security | Mathematics & Computer Science </strong>
+  <strong> Offensive Security | Mathematics & Computer Science | CVE-2026-14459 | CVE-2026-14460 </strong>
 </p>
 
 <p align="center">
