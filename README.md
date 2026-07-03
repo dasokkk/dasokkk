@@ -23,7 +23,7 @@ Previously, I was a member of the FIRST Robotics Competition team Sultans of Tur
 - TryHackme: https://tryhackme.com/p/dasok
 - HacktheBox: https://app.hackthebox.com/users/3128227
 - Medium: https://medium.com/@dasokkk
-
+- Linkedin: https://www.linkedin.com/in/kkdasmaz/
 ---
 
 ### 💻 Tech Stack & Tools
