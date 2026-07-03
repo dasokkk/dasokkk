@@ -21,7 +21,8 @@ Attack strategy development and research on quantum-resistant encryption.
 Previously, I was a member of the FIRST Robotics Competition team Sultans of Turkey.
 
 - TryHackme: https://tryhackme.com/p/dasok
-- HacktheBox https://app.hackthebox.com/users/3128227
+- HacktheBox: https://app.hackthebox.com/users/3128227
+- Medium: https://medium.com/@dasokkk
 
 ---
 
