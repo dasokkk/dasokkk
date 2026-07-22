@@ -8,7 +8,7 @@
 <p align="center">
   <a href="https://linkedin.com/in/kkdasmaz/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
   <a href="https://tryhackme.com/p/dasok"><img src="https://img.shields.io/badge/TryHackMe-1F2023?style=for-the-badge&logo=tryhackme&logoColor=white" alt="TryHackMe"></a>
-  <a href="https://app.hackthebox.com/users/3128227"><img src="https://img.shields.io/badge/HackTheBox-9FEF00?style=for-the-badge&logo=hackthebox&logoColor=black" alt="HackTheBox"></a>
+  <a href="https://app.hackthebox.com/public/users/3128227"><img src="https://img.shields.io/badge/HackTheBox-9FEF00?style=for-the-badge&logo=hackthebox&logoColor=black" alt="HackTheBox"></a>
 </p>
 
 ---
